@@ -1,4 +1,8 @@
-# Olá, Eu sou Everson Dias Desenvolvedor Front-End 👨‍💻
+
+<h1>Everson Dias</h1> 
+👨‍💻 Desenvolvedor Front-End<br>
+📚 Estudanddo na Tryber
+<hr>
 <div align="center">
   <a href="https://github.com/EversonDias">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=EversonDias&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
@@ -16,8 +20,7 @@
   <img align="center" alt="REACT" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
   <img align="center" alt="PYTHON" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
 </div>
-  
-  ##
+  <hr>
  
 <div>
 <img align="center" height="0" width="300" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
