@@ -1,7 +1,7 @@
 
 <h1>Everson Dias</h1> 
 👨‍💻 Desenvolvedor Front-End<br>
-📚 Estudanddo na Tryber
+📚 Estudando na Tryber
 <hr>
 <div align="center">
   <a href="https://github.com/EversonDias">
