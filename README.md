@@ -1,6 +1,6 @@
 
 <h1>Everson Dias</h1> 
-👨‍💻 Desenvolvedor Front-End<br>
+👨‍💻 Desenvolvedor Web
 📚 Aluno da Tryber
 <hr>
 <div align="center">
