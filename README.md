@@ -1,7 +1,8 @@
 
 <h1>Everson Dias</h1> 
-👨‍💻 Desenvolvedor Web
-📚 Aluno da Tryber
+ 👨‍💻 Desenvolvedor Web
+ 
+ 📚 Aluno da Tryber
 <hr>
 <div align="center">
   <a href="https://github.com/EversonDias">
